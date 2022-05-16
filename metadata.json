@@ -1,0 +1,22 @@
+
+{ 
+    "description": "This NFT proves I've created and deployed my first ERC20 smart contract on Rinkeby with Alchemy Road to Web3",
+    "external_url": "Alchemy.com",
+    "image": "https://ipfs.filebase.io/ipfs/bafkreicctowsfuyytvo74u26kbr5xqr3z7p6ebm4jwfln7ml47ve4kcble",
+    "name": "A cool NFT", 
+    "attributes": [
+      {
+        "trait_type": "creater", 
+        "value": "Sooraj"
+      }, 
+      {
+        "trait_type": "token_std", 
+        "value": "erc721"
+      }, 
+      {
+        "trait_type": "event", 
+        "value": "1stcontractoferc721"
+      }
+     ]
+    }
+  
